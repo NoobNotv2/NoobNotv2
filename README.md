@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @NoobNotv2
+- 👋 Hi, I’m NoobNotv2
 - Program that i used to code : Visual Studio Code - Insiders
-- im currently working in project awesome script PC in script repository
+- im currently working in project awesomescript in script repository
